@@ -1,0 +1,63 @@
+h1 {
+  color:#FEFEFE;
+  font-size: 50;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+p {
+  color:#FEFEFE;
+  font-size: 100;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+div {
+  text-align:center;
+}
+
+button {
+  box-shadow: 0 9px #999;
+  border-radius:12px;
+  background-color:#121212;
+  color:#FEFEFE;
+  font-size:50;
+  text-align: center;
+  font-family: 'Courier New', Courier, monospace;
+  }
+
+  #Reset {
+  transform: translateY(-8px) translateX(-4px);
+}
+
+#Stop {
+  transform: translateY(-8px) translateX(4px);
+}
+
+#Timed {
+  transform: translateY(8px);
+}
+
+button:active {
+  background-color: #202020;
+  box-shadow: 0 5px #666;
+  transform: translateY(8px);
+}
+
+button:hover {
+  background-color:#191919;
+}
+
+Input {
+  font-size:75;
+  transform: translateY(24px);
+  background-color:#121212;
+  color:#FEFEFE;
+  display:none;
+  font-size:50;
+  text-align:center;
+}
+
+body {
+  background-color:#121212;
+}
