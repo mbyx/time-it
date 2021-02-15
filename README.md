@@ -1,4 +1,4 @@
 # TimeIt
 A StopWatch/Timer built with HTML/CSS/JS
 
-[TimeIt](https://github.com/Abdul-Muiz-Iqbal/TimeIt/blob/master/TimeIt/TimeIt.html)
+[TimeIt](https://raw.githubusercontent.com/Abdul-Muiz-Iqbal/TimeIt/master/TimeIt/TimeIt.html)
